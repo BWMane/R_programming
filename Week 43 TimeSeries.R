@@ -1,6 +1,6 @@
 #################################
-##        Solutions to         ##
-##  Exercises in Time Series   ##
+##                             ##
+##        Time Series          ##
 #################################
 
 # Set your directory
